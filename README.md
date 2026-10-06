@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Syasya
+A third year Computer Science student at UiTM Shah Alam interested in Data Analyst and Web Developer.
 
-<!--
-**syasya-xd/syasya-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Studying: Bachelor Computer Science (Hons.), UiTM
+- Currently learning: Data Mining, Parallel Processing, Project Formulation, Technology Entrepreneurship, Special Topics in Computer Science, Algorithm Analysis & Design and Introductory Mandarin (Level III)
+- My FYP area: Machine Learning & Mobile Computing
 
-Here are some ideas to get you started:
+## Skills and tools
+- Programming: C++, Java, Python
+- Web: HTML, CSS
+- Database: MS Access
+- Tools: Microsoft Word, Excel, PowerPoint
+## Projects
+- AI Assisted Virtual Wardrobe and Personalised Outfit Recommendations System using a Hybrid Recommendation Algorithm(will put the link repository here): To organises users’ clothing and provides personalised outfit recommendations based on clothing compatibility, preferences, occasions, and budget.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://www.linkedin.com/in/syarifah-syahirah-743251323?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: syasya2878@gmail.com

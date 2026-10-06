@@ -1,4 +1,4 @@
-# Hi, I'm Syasya
+# Hi, I'm Syarifah Syahirah 
 A third year Computer Science student at UiTM Shah Alam interested in Data Analyst and Web Developer.
 
 ## About me
